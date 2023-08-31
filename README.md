@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://engulfedbasher.github.io/Portfolio/](https://engulfedbasher.github.io/Portfolio/)
 
-- 💬 Ask me about **Machine learning, AI related concepts, 3D Designing using blender, UI/UX designing**
+- 💬 Ask me about **Machine learning, AI-related concepts, 3D Designing using blender, UI/UX designing**
 
 - 📫 How to reach me **siddharth29.ghosh@gmail.com**
 
-- ⚡ Fun fact **I have a deep passion in Aeronautics and aviation. I am also a huge carnerd.**
+- ⚡ Fun fact **I have a deep passion for aeronautics and aviation. I am also a huge car nerd.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
