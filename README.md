@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://engulfedbasher.github.io/Portfolio/](https://engulfedbasher.github.io/Portfolio/)
 
-- 💬 Ask me about **Machine learning, AI-related concepts, UI/UX designing, Image Processing, 3D Designing using Blender**
+- 💬 Ask me about **Machine learning, AI-related concepts, UI/UX designing, Image Processing, 3D Designing using Blender etc...**
 
 - 📫 How to reach me **siddharth29.ghosh@gmail.com**
 
