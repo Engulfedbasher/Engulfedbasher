@@ -1,19 +1,19 @@
 ![logo](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)
 <h1 align="center">Hi 👋, I'm Siddharth Ghosh</h1>
-<h3 align="center">A passionate Software Engineer and an AI/ML Enthusiast.</h3>
+<h3 align="center">A Software Engineer and an AI/ML Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/engulfedbasher" target="blank"><img src="https://img.shields.io/twitter/follow/engulfedbasher?logo=twitter&style=for-the-badge" alt="engulfedbasher" /></a> </p>
 
-- 🌱 I’m currently working on **Image Processing and Machine Learning**
+- 🌱 I’m currently working on **Projects given to me by my company!**
 
 - 👨‍💻 All of my projects are available at [https://engulfedbasher.github.io/Portfolio/](https://engulfedbasher.github.io/Portfolio/)
 
-- 💬 Ask me about **Machine learning, AI-related concepts, UI/UX designing, Image Processing, 3D Designing using Blender etc...**
+- 💬 Ask me about **Machine learning, AI-related concepts, UI/UX designing, Image Processing, 3D Designing using Blender, etc...**
 
 - 📫 How to reach me **siddharth29.ghosh@gmail.com**
 
-- ⚡ Fun fact **I have a deep passion for Aeronautics and Aviation. I am also a huge car nerd.**
+- ⚡ Fun fact **I have a deep passion for Aeronautics and Aviation!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
